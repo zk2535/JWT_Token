@@ -1,8 +1,8 @@
 var config = {
     server: 'localhost',
-    database: 'SmartPDKSDB',
-    user: 'SmartUser',
-    password: 'SmartUser',
+    database: 'DenemeDB',
+    user: 'Deneme123',
+    password: 'Deneme123',
     port: 1433,
     options: {
         "encrypt": false,
